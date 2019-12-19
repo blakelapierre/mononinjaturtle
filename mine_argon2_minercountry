@@ -1,0 +1,8 @@
+TURTL_A=TRTLuwvA3BajgaTGpDKanu2n5GKpP52frhyWJcyzUMPk9xyWhTgjgbb73MiEFZb14Yhpo1fv2Bv7WgthZHFryp6rhNgwFVAM6GL
+NINJA_A=Ninja12Cx3tDbVQydBD35jGuxF17K9Mr1CxE4Kf6HenE7dtcvLSmVsxYHt6zmCZQ4HaX4dSMANWmCgsY8UqAZFkVgxv89mK5vyc1h
+BTCMZ_A=btcmzTaTBGwZLYHn4hLXs8JmLUJfBMNmHLp15rb3A2zddcYq7ghFP2jjcSUBfYgBAaf7sVDL7VYVYDP59uWh4Fv8NAzAmwwMBGX
+
+./xmrig -t 4 -o argon2.minercountry.com:3131 -u $TURTL_A -p $NINJA_A=$BTCMZ_A -a chukwa -k
+
+# -o trtl.pool.mine2gether.com:2225 -u $TURTL_A -a chukwa -k
+pause
